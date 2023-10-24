@@ -28,5 +28,5 @@ services:
       - DB_NAME=$MONGODB_DATABASE
       - DB_PORT=$MONGODB_DOCKER_PORT
 
-volumes:
-  node-mongo-data:
+#volumes:
+#  node-mo˚ngo-data:
